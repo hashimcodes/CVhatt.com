@@ -179,18 +179,19 @@ h2 {
 }
 
 .pic1 {
-    width: 619px;
-    height: 390px;
+    width: 630px;
+    height: 335px;
+    padding: 10px 0px;
 }
 
 .pic2 {
-    width: 450px;
-    height: 450px;
+    width: 435px;
+    height: 435px;
 }
 
 .pic3 {
-    width: 680px;
-    height: 460px;
+    width: 660px;
+    height: 440px;
 }
 
 .getstarted {
